@@ -100,3 +100,19 @@ Use the following table to configure your army correctly against the specific le
 |16, 17, 18, 19, 23, 24, 27, 42, 43 (+ flying units)|Riders|
 |24, 25, 30, 31, 35, 36|Archers|
 |20, 21, 22, 26, 27, 28, 29, 31, 32, 33, 34|Melee|
+
+## Citadels Monsters Fights
+
+|Citadel Type|Level|Best Troops|Leaders|Minimum catapults|
+|-|-|-|-|-|
+|Elven|10|catapult, archers|captains + heroes|level 3 catapult 200 units|
+|Elven|15|catapult, raiders|captains + heroes|level 3 catapult 1500 units|
+|Elven|20|catapult, melee, flying|captains + heroes (ye ho-sung/leonidas, brunhild/wu zeitan)|level 3 catapult 200 units|
+|Elven|25|catapult, melee|captains + heroes|level 5 catapult 4500 units|
+|Cursed|20|catapult, melee|captains + heroes (Brann+Aydae at least level 70)|level 4 catapult 2150 units|
+|Cursed|25|catapult, melee|captains + heroes (Leonidas)|To be calculated|
+
+The higher your catapult levels, the easier it will be to damage the castle walls. You can't take down a level 20 castle with a level 1 catapult.
+Leonidas is suitable for any citadel above level 25.
+
+To determine the number of catapults needed for a citadel, you need to calculate the total wall strength of the citadel and divide it by the damage inflicted by a single catapult. First, send a single catapult to the citadel to observe the damage it inflicts on the walls. Then, divide the total wall strength by the damage value of the single catapult to find the required number of catapults.
