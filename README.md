@@ -2,6 +2,35 @@
 
 ## Captains and specialties
 
+|Name|Bonus|
+|-|-|
+|Cleopatra|Strength of your entire army|
+|Ramses II|Health of your entire army|
+|Minamoto|Strength and health of your ranged troops|
+|Wu Zetian|Strength and health of your flying troops|
+|Leonidas|Strength and health of your melee troops|
+|Alexander|Strength and health of your mounted troops|
+|Hercules|Strength and health of your army against epic monsters|
+|Brunhild|Strength and health of your flying troops|
+|Amanitore|Strength and health of your army in group marches, raids, and reinforcements|
+|Carter|Crypt exploration efficiency, Tar capacity|
+|Aydae|Strength and health of your guardsmen|
+|Logos|Strength and health of your specialists|
+|Tengel|March speed and march range|
+|Proscope|Strength and health of your scouts|
+|Doria|Valor points bonus|
+|Stror|Resource gathering speed, Army carrying capacity|
+|Dustan|Conquest points bonus|
+|Ingrid|Strength and health of your monsters|
+|Brann|Strength and health of your engineer corps troops|
+|Ye Ho-Sung|Strength and health of your melee troops|
+|Bernard|Strength and health of your ranged troops|
+|Lucius|Strength and health of your mounted troops|
+|Xi Guiying|Strength of your ranged troops, Strength of your scouts|
+|Sofia|Health of your entire army|
+|Farhad|Research speed|
+|Aurora|Construction speed|
+|Beowulf|Health and Strength of your entire army|
 
 Captains that provide bonuses not related to fights (research speed, construction speed, tar capacity, ...) need to be idle in the city for their bonus to take effect. The bonus is calculated at the start of the process, the captain is free to go after the process is started.
 
