@@ -1,5 +1,44 @@
 # Total Battle Tips
 
+## Rare Monsters Fights
+Increase these units types for minimum losses in attacks against rare monsters.
+
+|Monster Squad Type|Level|Units to increase|
+|-|-|-|
+|Inferno|10, 15, 17, 19, 23, 26|Melee|
+|Elf|36|Melee|
+|Barbarian|25|Melee|
+|Cursed|26, 29, 41, 44|Melee|
+|Immortal|26, 29, 32, 34, 35, 37, 39, 42, 44|Melee|
+|Elf|5, 7, 8, 11, 14, 16, 18, 19, 21, 22, 23, 24, 25, 26, 30|Ranged|
+|Barbarian|15, 19, 20, 23, 26, 32, 35|Ranged|
+|Cursed|8, 18, 20, 22, 23, 25, 27|Ranged|
+|Hell|5, 25, 27, 29|Ranged|
+|Immortal|25, 28, 36, 38, 41, 43|Ranged|
+|Immortal|1, 2, 3, 4, 6, 7, 9, 11, 13, 16, 17, 19, 21, 22, 24|Riders|
+|Barbarian|4, 9, 12, 17, 18, 21, 22, 24, 27, 30, 31, 33|Riders|
+|Cursed|3, 12, 14, 16, 21, 28, 30, 32, 34, 37, 42, 45|Riders|
+|Hell|13, 20, 21, 28, 30, 31, 32, 34, 35|Riders|
+|Elf|2, 7, 16, 21, 24, 27, 29, 31, 33, 35, 36|Riders|
+|Hell|17, 22, 24|Flying|
+|Undead|22, 23, 27|Flying|
+|Cursed|24|Flying|
+|Barbarian|22, 28|Flying|
+|Elf|28|Flying|
+
+## Tin Man Army for Vaults
+
+**absolitely no catapults**
+Captains: Amanitore, Cleo or the highest level you have.
+
+|Vault Levels|Best Troops|
+|-|-|
+|10-19|Anything except melee|
+|20-29|Riders and flying|
+|30-39|Ranged, flying and epic hunter mercenaries|
+|40+|Flying and epic hunter mercenaries|
+
+
 ## Eroic Monsters Fights
 
 Attacking heroic monsters should defenitely be done with reinforcements to minimize losses and you should include captains **Cleopatra** and **Amanitore**.
