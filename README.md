@@ -13,7 +13,7 @@
 |Hercules|Strength and health of your army against epic monsters|
 |Brunhild|Strength and health of your flying troops|
 |Amanitore|Strength and health of your army in group marches, raids, and reinforcements|
-|Carter|<ul><li>Crypt exploration efficiency</li><li>Tar capacity</li></ul>|
+|Carter|Crypt exploration efficiency<br>Tar capacity|
 |Aydae|Strength and health of your guardsmen|
 |Logos|Strength and health of your specialists|
 |Tengel|March speed and march range|
