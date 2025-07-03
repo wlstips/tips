@@ -12,24 +12,26 @@
 |Hercules|Strength and health of your army against epic monsters|
 |Brunhild|Strength and health of your flying troops|
 |Amanitore|Strength and health of your army in group marches, raids, and reinforcements|
-|Carter|<ul><li>Crypt exploration efficiency</li><li>Tar capacity</li></ul>|
+|Carter|Crypt exploration efficiency, Tar capacity|
 |Aydae|Strength and health of your guardsmen|
 |Logos|Strength and health of your specialists|
 |Tengel|March speed and march range|
 |Proscope|	Strength and health of your scouts|
 |Doria|Valor points bonus|
-|Stror|<ul><li>Resource gathering speed</li><li>Army carrying capacity</li></ul>|
+|Stror|Resource gathering speed, Army carrying capacity|
 |Dustan|Conquest points bonus|
 |Ingrid|Strength and health of your monsters|
 |Brann|Strength and health of your engineer corps troops|
 |Ye Ho-Sung|Strength and health of your melee troops|
 |Bernard|Strength and health of your ranged troops|
 |Lucius|Strength and health of your mounted troops|
-|Xi Guiying|<ul><li>Strength of your ranged troops</li><li>Strength of your scouts</li></ul>|
+|Xi Guiying|Strength of your ranged troops, Strength of your scouts|
 |Sofia|Health of your entire army|
 |Farhad|Research speed|
 |Aurora|Construction speed|
 |Beowulf|Health & Strength of your entire army|
+
+Captains that provide bonuses not related to fights (research speed, construction speed, tar capacity, ...) need to be idle in the city for their bonus to take effect. The bonus is calculated at the start of the process, the captain is free to go after the process is started.
 
 ## Gold Required for City Development
 
