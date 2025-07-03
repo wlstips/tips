@@ -16,7 +16,7 @@
 |Aydae|Strength and health of your guardsmen|
 |Logos|Strength and health of your specialists|
 |Tengel|March speed and march range|
-|Proscope|	Strength and health of your scouts|
+|Proscope|Strength and health of your scouts|
 |Doria|Valor points bonus|
 |Stror|Resource gathering speed, Army carrying capacity|
 |Dustan|Conquest points bonus|
