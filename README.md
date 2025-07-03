@@ -1,5 +1,37 @@
 # Total Battle Tips
 
+## Captains and specialties
+|Name|Bonus|
+|-|-|
+|Cleopatra|	Strength of your entire army|
+|Ramses II|	Health of your entire army|
+|Minamoto|	Strength and health of your ranged troops|
+|Wu Zetian|	Strength and health of your flying troops|
+|Leonidas|	Strength and health of your melee troops|
+|Alexander|	Strength and health of your mounted troops|
+|Hercules|	Strength and health of your army against epic monsters|
+|Brunhild|	Strength and health of your flying troops|
+|Amanitore|	Strength and health of your army in group marches, raids, and reinforcements|
+|Carter|	<ul><li>Crypt exploration efficiency</li><li>Tar capacity</li></ul>|
+|Aydae|	Strength and health of your guardsmen|
+|Logos|	Strength and health of your specialists|
+|Tengel|	March speed and march range|
+|Proscope|	Strength and health of your scouts|
+|Doria|	Valor points bonus|
+|Stror|	<ul><li>Resource gathering speed</li><li>Army carrying capacity</li></ul>|
+|Dustan|	Conquest points bonus|
+|Ingrid|	Strength and health of your monsters|
+|Brann|	Strength and health of your engineer corps troops|
+|Ye Ho-Sung|	Strength and health of your melee troops|
+|Bernard|	Strength and health of your ranged troops|
+|Lucius|	Strength and health of your mounted troops|
+|Xi Guiying	| <ul><li>Strength of your ranged troops</li><li>Strength of your scouts</li></ul>|
+|Sofia|	Health of your entire army|
+|Farhad|	Research speed|
+|Aurora|	Construction speed|
+|Beowulf|	Health & Strength of your entire army|
+
+
 ## Rare Monsters Fights
 Increase these units types for minimum losses in attacks against rare monsters.
 
