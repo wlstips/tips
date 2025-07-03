@@ -19,14 +19,14 @@
 |Tengel|March speed and march range|
 |Proscope|Strength and health of your scouts|
 |Doria|Valor points bonus|
-|Stror|<ul><li>Resource gathering speed</li><li>Army carrying capacity</li></ul>|
+|Stror|Resource gathering speed<br>Army carrying capacity|
 |Dustan|Conquest points bonus|
 |Ingrid|Strength and health of your monsters|
 |Brann|Strength and health of your engineer corps troops|
 |Ye Ho-Sung|Strength and health of your melee troops|
 |Bernard|Strength and health of your ranged troops|
 |Lucius|Strength and health of your mounted troops|
-|Xi Guiying|<ul><li>Strength of your ranged troops</li><li>Strength of your scouts</li></ul>|
+|Xi Guiying|Strength of your ranged troops<br>Strength of your scouts|
 |Sofia|Health of your entire army|
 |Farhad|Research speed|
 |Aurora|Construction speed|
