@@ -50,6 +50,34 @@ List of architectureal plans spent on buildings required for guard rank update, 
 
 Save your gold accordingly.
 
+## Valor points required for Guardsmen research
+
+|Level|Research Type|Cost in VP|
+|-|-|-|
+|G4|March speed II (10/10)|200.1M|
+|G4|Training cost II (10/10)|200.1M|
+|G4|Archers/Spearmen/Raiders|80M each|
+||||
+|G5|March speed III (10/10)|2.7BM|
+|G5|Training cost III (10/10)|2.7BM|
+|G5|Archers/Spearmen/Raiders|900M each|
+||||
+|G6|March speed IV (10/10)|33.3B|
+|G6|Training cost IV (10/10)|33.3B|
+|G6|Archers/Spearmen/Raiders|9B each|
+||||
+|G7|March speed V (10/10)|486B|
+|G7|Training cost V (10/10)|486B|
+|G7|Archers/Spearmen/Raiders|90B each|
+||||
+|G8|March speed VI (10/10)|4,114.9B|
+|G8|Training cost VI (10/10)|4,114.9B|
+|G8|Archers/Spearmen/Raiders|900B each|
+||||
+|G9|March speed VII (10/10)|41,460B|
+|G9|Training cost VII (10/10)|41,460B|
+|G9|Archers/Spearmen/Raiders|9000B each|
+
 ## Rare Monsters Fights
 Increase these units types for minimum losses in attacks against rare monsters.
 
